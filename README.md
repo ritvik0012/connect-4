@@ -83,5 +83,5 @@ npm start
 
 ## Demo
 
-The application is also hosted onto this website - [https://connectfourfriends.herokuapp.com](https://connectfourfriends.herokuapp.com)
+The application is also hosted onto this website - [https://connect4-di0m.onrender.com/login](https://connect4-di0m.onrender.com/login)
 
